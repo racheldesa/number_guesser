@@ -11,3 +11,7 @@ Game Flow
     > user_guess != num ? increment num_guesses, prompt for next user_guess
 
 """
+
+# Prompt user to set range 
+range_min = input("Enter range minimum: ")
+range_max = input("Enter range maximum: ")
